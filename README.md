@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DALL·E 2024-05-27 05.09.37 - A person coding in a large, grand library. The library has high ceilings, tall bookshelves filled with books, and large windows letting in natural lig.webp" alt="Your Image" width="1200" height="700"/>
+  <img src="DALL·E 2024-05-27 05.09.37 - A person coding in a large, grand library. The library has high ceilings, tall bookshelves filled with books, and large windows letting in natural lig.webp" alt="Your Image" width="1200" height="450"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kritsada Kruapat</h1>
