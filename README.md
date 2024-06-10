@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kritsada8774@gamil.com**
 
-- ⚡ Fun fact **I hate code**
+- ⚡ Fun fact **I hate coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
