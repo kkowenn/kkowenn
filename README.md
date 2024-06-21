@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/kritsadakruapat](https://www.kaggle.com/kritsadakruapat)
 
-- 💬 Ask me about **love, book and anything but not code**
+- 💬 Ask me about **basketball, book and anything but not code**
 
 - 🌱 my book list [https://www.goodreads.com/user/show/158543874-kritsada-kruapat](https://www.goodreads.com/user/show/158543874-kritsada-kruapat)
 
