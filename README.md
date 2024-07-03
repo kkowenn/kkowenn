@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **basketball, book and anything but not code**
 
-- 📕 my book list [https://www.goodreads.com/user/show/158543874-kritsada-kruapat](https://www.goodreads.com/user/show/158543874-kritsada-kruapat)
+- 📕 Goodread: my book account [https://www.goodreads.com/user/show/158543874-kritsada-kruapat](https://www.goodreads.com/user/show/158543874-kritsada-kruapat)
 
 - 📫 How to reach me **kritsada8774@gamil.com**
 
