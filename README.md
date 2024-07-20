@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Kritsada Kruapat กฤษฎา เครือแพทย์</h1>
-<h3 align="center">“Even in an era of open data, data science and data journalism, we still need basic statistical principles in order not to be misled by apparent patterns in the numbers.” 
-  
-  The Art of Statistics: Learning from Data
-  
-  David Spiegelhalter</h3>
+<h3 align="center"> STATE OF THE ART
+
+</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/kritsadakruapat](https://www.kaggle.com/kritsadakruapat)
 
