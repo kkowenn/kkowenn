@@ -5,12 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/kritsadakruapat](https://www.kaggle.com/kritsadakruapat)
 
-- 💬 Ask me about **basketball, book and anything but not code**
-
 - 📕 Goodread: my book account [https://www.goodreads.com/user/show/158543874-kritsada-kruapat](https://www.goodreads.com/user/show/158543874-kritsada-kruapat)
 
 - 📫 How to reach me **kritsada8774@gmail.com**
 
+- 💬 Ask me about **basketball, book and anything but not code**
 
 
 <h3 align="left">Languages and Tools:</h3>
