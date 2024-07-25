@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Kritsada Kruapat กฤษฎา เครือแพทย์</h1>
-<h3 align="center"> STATE OF THE ART
 
 </h3>
 
